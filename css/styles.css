@@ -642,6 +642,14 @@ progress {
   margin-left: auto;
 }
 
+@media (min-width: 375px) {
+  .profile-img  {
+    display: flex;
+    max-width: 150%;
+    
+  }
+}
+
 @media (min-width: 576px) {
   .container-sm, .container {
     max-width: 540px;
