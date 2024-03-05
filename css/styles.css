@@ -1,3 +1,4 @@
+
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Personal v1.0.1 (https://startbootstrap.com/template-overviews/personal)
@@ -11809,4 +11810,11 @@ html {
 .d-flex justify-content-between {
   width: 50%;
 }
+
+.display-4  {
+  font-family: "Bellefair", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
